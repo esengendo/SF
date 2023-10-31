@@ -1,8 +1,7 @@
-# Project Goal and Executive Summary
 
-## Project Title: Analyzing Business Closures in San Francisco, CA: A Machine Learning Approach
+## Analyzing Business Closures in San Francisco, CA: A Machine Learning Approach
 
-### Project Goal:
+### Goal:
 
 The primary goal of this data science analysis is to provide valuable insights into factors affecting business closures in San Francisco and, based on historical data, predict which businesses are more likely to close shortly. This project is conducted for educational purposes to illustrate the process of data analysis and machine learning. The analysis focuses on utilizing machine learning techniques to make these predictions, taking into account a wide range of features, including business type, location, tax payment history, and economic indicators. Additionally, the project aims to provide location-based insights by identifying thriving and struggling business areas in San Francisco, which can benefit entrepreneurs and policymakers. This analysis is especially relevant in the context of assessing the impacts of crime on businesses.
 
